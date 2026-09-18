@@ -38,5 +38,5 @@ To consistently practice problem-solving, strengthen **DSA and SQL skills**, and
 
 ---
 
-**Profile:** [LeetCode](https://leetcode.com/)
+**Profile:** [LeetCode](https://leetcode.com/u/ATUL-07/)
 **Language:** C++ / SQL
